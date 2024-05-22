@@ -127,7 +127,8 @@ MEDIA_URL = '/media/'
 CORS_ORIGIN_WHITELIST = (
     "http://127.0.0.1:5500",
     "http://localhost:5500",
-    "http://10.174.54.61:5500"
+    "http://10.174.54.61:5500",
+    "http://10.169.116.7:5500"
 )
 CORS_ALLOW_CREDENTIALS = True
 
